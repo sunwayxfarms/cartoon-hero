@@ -1,0 +1,31 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    font-size: 30px;
+    font-family: poppins;
+    color: #8bc53f;
+}
+h2{
+    color: #353535;
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.big{
+    font-size: 60px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.big.uppercase{
+    color: #FF541D;
+}
+
+h1 span{
+    color: #FF541D;
+}
